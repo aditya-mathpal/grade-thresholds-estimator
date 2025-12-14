@@ -7,7 +7,7 @@ This script estimates expected mean, standard deviation, and grade thresholds fo
 Python  
 https://www.python.org/downloads/
 
-`pip install -r requirements.txt`
+Run `pip install -r requirements.txt`
 
 # Usage
 Clone the repo:  
@@ -29,3 +29,4 @@ Expected thresholds:  {'A+': 81, 'A': 74, 'B': 67, 'C': 60, 'D': 53, 'E': 46}
 ```
 Plot:  
 <img width="646" height="552" alt="Image" src="https://github.com/user-attachments/assets/1d45fa42-42d2-4ee8-b4ed-9fc24d7402cc" />
+

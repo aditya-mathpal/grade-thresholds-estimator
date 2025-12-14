@@ -24,7 +24,7 @@ def read_observations(filename):
                 continue
 
             try:
-                grade, score = line.split()
+                grade, score = line.split()[:2]
                 score = int(score)
             except ValueError:
                 raise ValueError(
